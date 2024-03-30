@@ -1,0 +1,65 @@
+typelib;debut_appel;derniere_modif_fa;cloture_fa;typeappel_nom;gamme_nom;categorie_nom;motif_nom;detail_nom;service_libelle;code_alliance;nomagent;prenomagent;typetraitement;statutaction;commentaires;description;reponse;erd_nom;id_adv;vendeur_code;vendeur_email;ref;nom_client;compte_client;telephone;lie_a_un_incident;Datation;Date_Format_1
+HLB AT;03/01/2024 12:09;;03/01/2024 12:10;02 - HLB AT;02 - Internet;02 - Connexion;03 - Erreur;PAS DE MOTIFS;B2S_Casa;WPXK6245;Hlb-Comdata-Maroc;Cc-Aar;HLB AT;Traitï¿½ï¿½ - Client info;"~~~~~~~~~
+#Act:  HLB  #ORIGINE: Boutique  
+#COMMENTAIRE: Synchro ko
+#SOLUTION APPORTï¿½ï¿½E: Test de ligne / Intervention PMS
+#SITUATION FIN CONTACT: Info";;;GDT NEUFCHATEL EN BRAY;76PHSENEBR;JXDH7333;prescillia.noel@generaledetelephone.com;40040058 U;NEVEU Yannick;;648427425;Non;03/01/2024;20240103
+HLB AT;04/01/2024 18:40;;04/01/2024 18:40;02 - HLB AT;02 - Internet;08 - Sup en cours de livr;03 - MES partielle;PAS DE MOTIFS;B2S_Casa;XBFD8978;Hlb-Comdata-Maroc;Cc-Aav;HLB AT;Traitï¿½ï¿½ - Client info;"#Act : HLB #ORIGINE: Boutique:  
+#Commentaire :  REPRISE RDV
+#Solution apportï¿½ï¿½e : TRDV REPRIS
+#Situation fin contact : INFO";;;MONTIVILLIERS;76290FK2-9;QHRX8680;morgane.ruffenach.ext@orange.com;40044949 U;Ouaker Mohand;;626976698;Non;04/01/2024;20240104
+HLB AT;18/01/2024 15:43;;18/01/2024 15:45;02 - HLB AT;02 - Internet;02 - Connexion;03 - Erreur;PAS DE MOTIFS;B2S_Casa;QFZL4978;Hlb-Comdata-Maroc;Cc-Aao;HLB AT;Traitï¿½ï¿½ - Client info;"#Act HLB #ORANGE: Boutique
+
+#COMMENTAIRE:  Teste de boucle LBE
+#SOLUTION APPORTEE:   Problï¿½ï¿½me matï¿½ï¿½riels / box a ï¿½ï¿½changer 
+#SITUATION FIN CONTACT:   code SA";;;MONTESSON;78360LQC-5;HNWP2934;david.abdou@orange.com;40076612 U;LADUREE FRANCOISE;;674290815;Non;18/01/2024;20240118
+HLB AT;03/01/2024 13:42;;03/01/2024 13:48;02 - HLB AT;02 - Internet;02 - Connexion;05 - Pb dï¿½ï¿½conne;PAS DE MOTIFS;B2S_Casa;HRSD5879;Hlb-Comdata-Maroc;Cc-Abt;HLB AT;Traitï¿½ï¿½ - Client info;"#Act : HLB #ORIGINE:  :ï¿½ï¿½  Boutique
+#Commentaire :   internet coupï¿½ï¿½ du a prob de ligne 
+#Solution apportï¿½ï¿½e : intervention pms validï¿½ï¿½
+#Situation fin c";;;VERDUN;55100FE7-2;PSBC8271;alex.buschi@orange.com;40040429 U;SEVETTE JEAN;;681976795;Non;03/01/2024;20240103
+HLB AT;09/01/2024 10:30;;09/01/2024 10:30;02 - HLB AT;02 - Internet;02 - Connexion;05 - Pb dï¿½ï¿½conne;PAS DE MOTIFS;B2S_Casa;BDLJ9061;Hlb-Comdata-Maroc;Cc-Abl;HLB AT;Traitï¿½ï¿½ - Client info;"#Act:  HLB  #ORIGINE:  Boutique    
+#COMMENTAIRE : prob de decpnnexion wifi 
+#SOLUTION APPORTï¿½ï¿½E :test de ligne = lbe.
+Problï¿½ï¿½me dappairage des plugs CPL non Orange ou ï¿½ï¿½quipement terminal en veille.
+Point d'accï¿½ï¿½s Wifi proche de la LB et potentiellement perturbateur.
+Equipement consommateur Wifi 5 Ghz
+#SITUATION FIN CONTACT : corriger l environ de la box /raz lb / optimiser la port";;;GDT ORTHEZ;64PHSEORTH;HNFN3112;benjamin.auroux@generaledetelephone.com;40053840 U;Anglade,Jacques;;624338601;Non;09/01/2024;20240109
+HLB AT;04/01/2024 15:45;;;02 - HLB AT;12 - Appel hors pï¿½ï¿½rimï;01 - erreur de sollication;01 - appel traitï¿½ï¿½ (pil;PAS DE MOTIFS;B2S_Casa;XPMZ4487;Hlb-Comdata-Maroc;Cc-Aae;;;;;;LANESTER;56600FX7-4;YSGC6279;anthony.chartier.ext@orange.com;40044050 U;;;;Non;04/01/2024;20240104
+HLB AT;09/01/2024 13:25;;;02 - HLB AT;02 - Internet;08 - Sup en cours de livr;03 - MES partielle;PAS DE MOTIFS;B2S_Casa;QHPQ2975;Hlb-Comdata-Maroc;Cc-Abi;;;;;;PARIS RENNES;75006FQ8-5;HPFJ8158;ramzi.baccouche@orange.com;40054634 U;;;;Non;09/01/2024;20240109
+HLB AT;11/01/2024 14:35;;11/01/2024 14:36;02 - HLB AT;02 - Internet;02 - Connexion;03 - Erreur;PAS DE MOTIFS;B2S_Casa;NKLP7655;Hlb-Comdata-Maroc;Cc-Abg;HLB AT;Traitï¿½ï¿½ - Client info;"#Act:  HLB  #ORIGINE:  Boutique       
+#COMMENTAIRE:   insta expert 
+#SOLUTION APPORTï¿½ï¿½E:validï¿½ï¿½
+#SITUATION FIN CONT";;;CLUSES;74303FL8-1;ZWFH2617;romain.garcia@orange.com;40060385 U; Fillion,Thierry ;;637657991;Non;11/01/2024;20240111
+HLB AT;06/01/2024 15:33;;06/01/2024 15:36;02 - HLB AT;12 - Appel hors pï¿½ï¿½rimï;02 - demande de code SAVI;01 - appel traitï¿½ï¿½ (pil;PAS DE MOTIFS;B2S_Casa;GRPQ4700;Hlb-Comdata-Maroc;Cc-Aag;HLB AT;Traitï¿½ï¿½ - Cas solutio;"#Act:  N1  #ORIGINE:  boutique #RAISON CONTACT:  demande echange decodeur (ne marche pas) -- INFO+:  borne ko 
+#decodeur : decodeur  Sagem 
+#COMMENTAIRE:  pb de tv 
+#SOLUTION APPORTï¿½ï¿½E:  echange validï¿½ï¿½-- 
+#SITUATION FIN CONTACT:  Panne franche  #SOLUTION ATTENTE:  Oui --";;;CANNES;06402FH3-0;XKCW6784;loren.chaudet@orange.com;40049825 U;"PLUMEJEAU,Pierrette	";;608612002;Non;06/01/2024;20240106
+HLB AT;25/01/2024 11:32;;25/01/2024 11:32;02 - HLB AT;12 - Appel hors pï¿½ï¿½rimï;01 - erreur de sollication;01 - appel traitï¿½ï¿½ (pil;PAS DE MOTIFS;B2S_Casa;NKLP7655;Hlb-Comdata-Maroc;Cc-Abg;HLB AT;Traitï¿½ï¿½ - Client info;appel interrompu ;;;DBO;92DISIDBO;DINO0837;;40091721 U;inconue;;600000000;Non;25/01/2024;20240125
+HLB AT;09/01/2024 15:52;;;02 - HLB AT;02 - Internet;02 - Connexion;04 - Information;PAS DE MOTIFS;B2S_Casa;BLKV6890;Hlb-Comdata-Maroc;Cc-Abn;;;;;;COLMAR HOUSSEN;68019FF2-A;BZPR7973;samouwillou.elhadjlassissi@orange.com;40055404 U;;;;Non;09/01/2024;20240109
+HLB AT;18/01/2024 13:55;;18/01/2024 13:56;02 - HLB AT;02 - Internet;02 - Connexion;03 - Erreur;PAS DE MOTIFS;B2S_Casa;XPMZ4487;Hlb-Comdata-Maroc;Cc-Aae;HLB AT;Traitï¿½ï¿½ - Client info;"#Act:ï¿½ï¿½ HLBï¿½ï¿½ #ORIGINE:ï¿½ï¿½ Boutiqueï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 
+#COMMENTAIRE:ï¿½ï¿½ @ko
+#SOLUTION APPORTï¿½ï¿½E:derco en cours dï¿½ï¿½passï¿½ï¿½ mail de rï¿½ï¿½clamation envoyï¿½ï¿½ et client";;;SAUMUR;49421FU7-3;QHZX5644;paul.marie@orange.com;40076107 U;"Alix,Georges	";;600000000;Non;18/01/2024;20240118
+HLB AT;15/01/2024 17:58;;15/01/2024 18:02;02 - HLB AT;02 - Internet;02 - Connexion;06 - Pb matï¿½ï¿½;PAS DE MOTIFS;B2S_Casa;HRSD5879;Hlb-Comdata-Maroc;Cc-Abt;HLB AT;Traitï¿½ï¿½ - Client info;"****Act hlb origine  boutique  
+****commentaire  decodeur ko electrikement
+****solution  echange validï¿½ï¿½ 
+****situation fin contact  inform";;;LYON ECULLY GRAND OUEST;69009FG4-1;FQCP8311;nirina.thomas.ext@orange.com;40069199 U;ALTUNA MICHAEL;;662750091;Non;15/01/2024;20240115
+HLB AT;25/01/2024 11:02;;25/01/2024 11:02;02 - HLB AT;05 - MS TV MS TV DUO;01 - Ligne HS;01 - Test Dï¿½ï¿½co;PAS DE MOTIFS;B2S_Casa;SDGT9770;Hlb-Comdata-Maroc;Cc-Aaa;HLB AT;Traitï¿½ï¿½ - Client info;"#Act:  HLB  #ORIGINE:  BOUTIQUE
+#COMMENTAIRE: tv ko 
+#SOLUTION APPORTï¿½ï¿½e:decodeur a remplacer 
+#SITUATION FIN CONTACT: infor";;;GDT ARGENTON SUR CREUSE;36PHSEARGE;XJDJ2607;gwenaelle.plaie@generaledetelephone.com;40091590 U;ROUSSILLAT CHRISTOPHE;;628972542;Non;25/01/2024;20240125
+HLB AT;27/01/2024 16:18;;27/01/2024 16:21;02 - HLB AT;02 - Internet;02 - Connexion;03 - Erreur;PAS DE MOTIFS;B2S_Casa;XBFD8978;Hlb-Comdata-Maroc;Cc-Aav;HLB AT;Traitï¿½ï¿½ - Client info;"#Act : HLB #ORIGINE: Boutique:  
+#Commentaire : SYNCHRO KO 
+#Solution apportï¿½ï¿½e : LIGNE IMPACTEE PAR UN DERCO DLR 21/02
+#Situation fin contact : INFO";;;GDT PORNIC;44PHSEPORN;TFMD3180;manon.boucard@generaledetelephone.com;40098106 U;DROUILLET JOï¿½;;630008596;Oui;27/01/2024;20240127
+HLB AT;09/01/2024 15:16;;;02 - HLB AT;02 - Internet;02 - Connexion;03 - Erreur;PAS DE MOTIFS;B2S_Casa;HLJQ5772;Hlb-Comdata-Maroc;Cc-Aal;;;;;;LOUVROIL;59720FX1-1;KZBP8085;yanis.levecq@orange.com;40055204 U;;;;Non;09/01/2024;20240109
+HLB AT;04/01/2024 10:47;;04/01/2024 10:56;02 - HLB AT;03 - Ligne Analogique et ligne RTC Orange;01 - Ligne HS;06 - Pas de tonalitï¿;02 - PT pas d' appel;B2S_Casa;RCXN3621;Hlb-Comdata-Maroc;Cc-Aaw;HLB AT;Traitï¿½ï¿½ - Client info;"Act:HLB:ORIGINEBoutique
+#COMMENTAIRE:ï¿½ï¿½ pb  fixe  
+#SOLUTION APPORTï¿½ï¿½E:  pas de  tonalitï¿½ï¿½  // intervention  
+#SITUATION FinCONTACT:  inform";;;DBO;92DISIDBO;DINO0837;;40042640 U;HIRIGOYEN DE COURCY GILBERTE;;640403639;Non;04/01/2024;20240104
+HLB AT;16/01/2024 11:31;;16/01/2024 11:32;02 - HLB AT;02 - Internet;08 - Sup en cours de livr;01 - AVP Artemis;PAS DE MOTIFS;B2S_Casa;GRPQ4700;Hlb-Comdata-Maroc;Cc-Aag;HLB AT;Traitï¿½ï¿½ - Client info;"Act:  N1  #ORIGINE:  boutique #RAISON CONTACT:  pb de synchro    -- INFO+: pas de signal
+#LB:  LB4 Sagem 
+#COMMENTAIRE:  pb de synchro  
+#SOLUTION APPORTï¿½ï¿½E: inter vention  validï¿½ï¿½  
+#SITUATION FIN CONTACT:  Panne franche  #SOLUTION ATTENTE:  non  --";;;GDT LES ANGLES;30PHSEANGL;FBJK6053;yasmine.fatnassi@generaledetelephone.com;40070105 U;Bachelard Lucienne;;681227646;Non;16/01/2024;20240116
+HLB AT;22/01/2024 16:18;;;02 - HLB AT;02 - Internet;02 - Connexion;03 - Erreur;PAS DE MOTIFS;B2S_Casa;BLKV6890;Hlb-Comdata-Maroc;Cc-Abn;;;;;;PARIS BASTILLE;75SDRBEAUM;CGKR2133;jalal.elhachimi@orange.com;40084605 U;;;;Non;22/01/2024;20240122
